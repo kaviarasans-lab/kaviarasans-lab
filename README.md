@@ -1,6 +1,4 @@
 # 💫 About Me:
-Sure! Here’s a **shorter, cleaner, tighter** version of your bio while keeping the same vibe:<br><br>---<br><br>🚀 Passionate Developer crafting modern, meaningful digital experiences<br>💻 Code enthusiast focused on clean, functional, user-centric apps<br>🌱 Constantly learning — JavaScript, React & modern web tools<br>⚡ Problem-solver who values clean architecture & efficient code<br>🔧 Enjoy designing, building, debugging & shipping products<br>📚 Always exploring new tools and patterns to grow<br>🤝 Believe in collaboration, consistency & everyday improvement<br>✨ Driven by curiosity and the joy of turning ideas into reality<br>💬 Open to collaborating and building amazing things together<br><br><br>
-
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kaviarasanpcs@gmail.com) 
